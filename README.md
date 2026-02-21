@@ -39,7 +39,7 @@
 
 ## ⚛️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
 </p>
 
 ## 🗄️ Database
