@@ -85,21 +85,21 @@ const Nishchay = {
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+<!--# 📊 SYSTEM ANALYTICS -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnishchay&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</p> -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnishchay&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnishchay&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 # 🐍 ACTIVITY MATRIX
 
