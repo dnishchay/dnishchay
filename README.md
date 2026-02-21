@@ -92,7 +92,7 @@ const developer = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dnishchay/dnishchay/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dnishchay/dnishchay/main/snake.svg" alt="Snake animation" />
 </p>
 
 > ⚠ To enable the snake animation:
