@@ -92,19 +92,16 @@ const developer = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dnishchay/dnishchay/main/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnishchay/dnishchay/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/dnishchay/dnishchay/output/snake.svg">
+  </picture>
 </p>
-
-> ⚠ To enable the snake animation:
-> - Create a GitHub Action using `Platane/snk`
-> - It will automatically generate the animation in the `output` branch
-
----
 
 # 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Nishchay">
+  <a href="https://github.com/dnishchay">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
