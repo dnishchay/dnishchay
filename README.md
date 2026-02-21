@@ -1,95 +1,76 @@
-<!-- ======================= HEADER ======================= -->
+<!-- =================== TERMINAL HEADER =================== -->
 
-<h1 align="center">Hey 👋, I'm Nishchay</h1>
-<h3 align="center">Full Stack Developer | Backend Architect | AWS Cloud Builder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Node.js+%2B+TypeScript+Developer;React.js+Frontend+Engineer;AWS+Cloud+Enthusiast;Building+Scalable+Production+Systems" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Booting+Nishchay.exe...;Full+Stack+Engineer+Detected;AWS+Cloud+Builder+Online;Next.js+%2B+TypeScript+Architect;System+Status%3A+Production+Ready" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishchay&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dnishchay&label=SYSTEM+VIEWS&color=00ffaa&style=flat-square" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🖥️ System Profile
 
-- 💻 Full Stack Developer focused on scalable backend systems  
-- ⚡ Strong in **Node.js + TypeScript architecture**
-- ⚛️ Building modern UIs using **React.js**
-- ☁️ Deploying and managing infrastructure on **AWS**
-- 🗄️ Experienced with **PostgreSQL, APIs, logging systems**
-- 🎨 UI consistency lover (TailwindCSS, responsive design)
-- 🔥 Passionate about clean architecture & production-ready systems
+```bash
+> whoami
+Nishchay
 
----
+> role
+Full Stack Developer | Backend Architect | Cloud Engineer
 
-# 🛠️ Tech Stack
+> specialization
+Scalable Node.js systems
+TypeScript-first development
+Next.js applications
+AWS cloud infrastructure
+Production-grade APIs
 
-## 👨‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js" />
-</p>
-
-## 🚀 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## ⚛️ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-</p>
-
-## 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-## ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnishchay&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-# 🧠 Current Focus
-
-- 🔥 Scalable backend architecture  
-- ☁️ Cloud-native deployments with AWS  
-- 📦 API integrations  
-- 🧾 Automated PDF systems  
-- 📬 Email automation pipelines  
-- 🏗️ Production-grade logging systems  
-
----
-
-# 🎯 Developer Philosophy
-
-```ts
-const developer = {
-  code: "clean",
-  architecture: "scalable",
-  cloud: "aws-first",
-  ui: "consistent",
-  mindset: "production-ready",
-  debugging: "fearless",
-  learning: "continuous"
-};
+> philosophy
+Build scalable systems.
+Design clean architecture.
+Ship production-ready code.
 ```
 
 ---
 
-# 🐍 Contribution Snake
+# ⚙️ Core Tech Stack
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
+
+### 🚀 Backend Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### ⚛️ Frontend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### ☁️ Cloud Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres" />
+</p>
+
+---
+
+# 📊 System Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnishchay&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnishchay&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity Map
 
 <p align="center">
   <picture>
@@ -98,14 +79,11 @@ const developer = {
   </picture>
 </p>
 
-# 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/dnishchay">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ---
 
-⭐️ **"Build systems that scale. Write code that lasts."**
+# ☁️ Cloud Focus
+
+- AWS-first deployment mindset
+- Scalable API architecture
+- Infrastructure-aware development
+- Performance & logging conscious
